@@ -130,7 +130,7 @@ import sys
 
 import numpy as np
 import tensorflow as tf
-import tensorflow_hub as hub
+import tensorflow-hub as hub
 from tensorflow.contrib import quantize as contrib_quantize
 
 FLAGS = None
